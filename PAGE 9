@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {margin:0;height:2000px;}
+
+.icon-bar {
+color: white;
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.content {
+  margin-left: 75px;
+  font-size: 30px;
+}
+</style>
+<body>
+
+<div class="icon-bar">
+  <a href="#" class="facebook"><i class="fa fa-facebook"></i></a> 
+  <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> 
+  <a href="#" class="google"><i class="fa fa-google"></i></a> 
+  <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+  <a href="#" class="youtube"><i class="fa fa-youtube"></i></a> 
+</div>
+
+<div class="content">
+  <h3>Can a food be both organic and natural?</h3>
+  <p> 
+
+				A food can be both, but a natural food item is not necessarily organic, and vice versa. "While studies have shown that consumers misinterpret the true meaning of both of these terms, the misunderstanding seems to be greatest for the term 'natural,' as consumers often believe that food labeled 'natural' shares many of the characteristics of 'organic' food, which is often not the case," said Messer.<br>
+
+				Organic foods are produced, manufactured and handled in ways that meet the USDA organic standards. Natural food, on the other hand, are generally processed in a manner that does not fundamentally alter the product.  <br>
+
+			"Unlike 'natural,' only 'organic' offers government-backed assurance that products are grown and processed without the use of toxic chemicals, antibiotics and synthetic growth hormones," said Bowen. "Unfortunately, 'natural' does not mean 'organic' and comes with no guarantees."<br>
+<h3>Benefits of natural and organic foods</h3>
+
+			Some studies have shown that eating natural, pesticide-free foods is good for people's health, but long-term research is lacking. One study found that people who eat organic produce have lower levels of pesticides in their system, for example. Food that are whole and contain less added salt, sugar and preservatives have also been found to be healthier, though there isn't much research into the actual term of "natural."<br>
+<h3>What are some things consumers should know about organic foods?</h3>
+
+Holbrook provided this list as a few things that consumers should consider when it comes to organic foods: 
+
+   				 Organically grown foods are not always healthy foods. For example, sugar should be limited in one's diet, and overall calories need to be appropriate for one's gender, height and weight, age and activity level. Organic snacks, such as cookies, candy, chips, cereal bars and juice, are not items that should be consumed regularly or thought of as healthy food items. <br>
+      			Meat and poultry from organically raised animals meet the definition, but with so many other terms assigned to meat, it can be very confusing. For example, red meat and poultry labeled organic does not mean the animal was pasture-raised, also known as grass-fed (fed grass and forage, the evolutionarily traditional diet for cattle). Rather, an organic animal may have been raised on a diet of organic grain (a conventional type of diet for cattle). A grass-fed diet has the advantage of producing meat that has a healthier fat profile than the meat of a conventionally fed animal. While you can find grass-fed and organic, consumers often mistake organic to also mean that the animal was fed outside on an open pasture. <br>
+   				 Many consumers drawn to organic food may also care greatly about supporting local farmers. Organic foods are often grown thousands of miles away from where they are ultimately purchased. This affects environmental health as a result of resources used for transport and can deplete nutrients as food travels great distances under changing temperature, light and humidity. So, some people may prefer locally grown food (even if it doesn't contain the organic seal) over organic food grown in other countries. Tip: Ask local farmers if they use sustainable farming methods; many do and just do not apply for the USDA organic seal due to the costs involved. According to the USDA, producers who market less than $5,000 worth of organic products each year are not required to apply for organic certification, but still must comply with the organic production and handling requirements.</p> 
+
+</div>
+</body>
+</html> 
