@@ -1,0 +1,106 @@
+<html>
+<head>
+<style>
+input[type=text], select {
+    width:25%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width:25%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+   color: white;
+    padding: 20px;
+}
+</style>
+<body>
+<ul>
+  <li><a href="Front_Page.html#home">Home</a></li>
+<li><a class="active" href="class.html">Back</a></li>
+  
+</ul>
+</body>
+<center>
+<body>
+Checkbox: <input type="checkbox" id="myCheck">
+
+<button onclick="check()">Online payment</button>
+<button onclick="check()">COD</button>
+
+
+<script>
+function check() {
+    document.getElementById("myCheck").checked = true;
+}
+
+function uncheck() {
+    document.getElementById("myCheck").checked = false;
+}
+</script>
+</body>
+<div>
+  <form action="/action_page.php">
+    <label for="fname">Name Of Bank(payment)<br></label>
+<select id="country" name="country">
+      <option value="australia">Canara Bank</option>
+      <option value="canada">State Bank Of India</option>
+      <option value="usa">Karur Vysya Bank</option>
+       <option value="usa">State Bank Of India</option>
+    </select>
+
+    <br>
+    <label for="lname">Account Number<br></label>
+    <input type="text" id="lname" name="lastname" placeholder="xxxxxxxxxxxxxxxx."><br>
+
+    <label for="country">Place Of Delivery<br></label>
+    <select id="country" name="country">
+      <option value="australia">Coimbatore</option>
+      <option value="canada">Chennai</option>
+      <option value="usa">Karur</option>
+       <option value="usa">Salem</option>
+    </select>
+  <br>
+    <input type="submit" value=" Order Now" ><br><br><br><br><br><br><br><br>
+<object align="right">
+<a href="last.html" ><i>Comment</i></a></align></object>
+  </form>
+</div>
+</center>
+</body>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+<body background="carrot.jpg">
+</body>
+</head>
+</html>
