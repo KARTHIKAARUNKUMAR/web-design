@@ -1,0 +1,156 @@
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 05;
+    overflow: hidden;
+    background-color:#333;
+}
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+<ul>
+  <li><a class="active" href="Front_page.html">Home</a></li>
+  <li><a href="class2.html#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+</body>
+<body style="background-color:"white;">
+<img src="second.jpg" alt="second.com" width="1700" height="900">
+<style>
+h1.center 
+{ 
+        color:orange;
+        text-align:center;
+ }
+p.center
+ {
+ color:green;
+ text-align:center;
+ }
+p.large 
+{ 
+font-size:300%;
+ }
+p.double{ border-style:double;}
+
+</style>
+</head>
+<body>
+<p><a href="#offer">special offers</a></p>
+<h1 class="center large" ><i>BACKYARD HARVEST</i></h1>
+</body>
+<h1>
+<style>
+p.groove {border-style: groove;}
+</style>
+<body><h2>
+ <p class="groove"><i>“When health is absent, wisdom cannot reveal itself, art cannot manifest, strength cannot fight, wealth becomes useless, and intelligence cannot be applied.”</i></p></h2>
+</body>
+<h2 style="text-align:center; color:orange;"><i>FARMVILLA PROGRESSING AS FOLLOWS...</i></h2>
+<style>
+
+table, th, td { text-align: center; 
+  border: 1px solid black; }
+th, td {text-align: center;
+    padding: 5px;
+}
+</style>
+<body>
+
+<h2 id="offer">Special Offers On:</h2>
+<h3>
+<ul>
+  <li>Spinach</li><br>
+  <li>Capsicums</li><br>
+  <li>Tomatoes</li><br>
+<li>Potates</li><br>
+<li>Apples</li><br>
+<li>Berries</li><br>
+<li>Drumsticks</li><br>
+<li>Carrots</li><br>
+<li>Cucumber</li>
+</ul>  </h3>
+
+</body>
+</head>
+<body>
+<table style="width:100%"> 
+ <tr>
+    <th><i>MONTH</i></th>
+    <th><i>PLANTS</i></th>
+     <th><i>RATE PER KGS</i></th> 
+ </tr>
+  <tr>
+    <td>September,October</td>
+    <td>Tomatoes,Potatoes</td>   
+ <td>30/-</td>  
+</tr> 
+ <tr>   
+ <td>November</td>    
+<td>Carrots</td>   
+ <td>25/-</td>
+  </tr> 
+ <tr> 
+   <td>December</td>
+    <td>Apples,Berries</td>  
+  <td>50/-</td>  
+</tr>
+ <tr> 
+   <td>January</td>   
+ <td>Capsicums,Cucumber</td>   
+ <td>20/-</td>  
+</tr> 
+<tr>
+    <td>February</td>
+    <td>Spinach,Drumstick</td>  
+  <td>15/-</td>
+  </tr>
+</table>
+<body>
+<img src="product1.jpg" width="400" height="300">
+<img src="product2.jpg" width="500" height="300">
+<img src="product3.jpg" width="400" height="300">
+</body>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+<a href="class.html" >MORE</a>
+</body>
+</html>
+
+
+
+
