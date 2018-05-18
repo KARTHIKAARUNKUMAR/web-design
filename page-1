@@ -1,0 +1,119 @@
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 05;
+    overflow: hidden;
+    background-color:#333;
+}
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="Front_page.html#home">Home</a></li>
+  <li><a href="class2.html#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="border.html#about">About</a></li>
+</ul>
+
+<body background="grapes.jpg">
+</body>
+<style>
+#myHeader {
+    
+    color: maroon;
+    padding: 40px;
+    text-align: center;
+} 
+</style>
+</head>
+<body>
+<h1 id="myHeader">Farmvilla</h1>
+</body>
+<body align="left">
+<img src="logo1.jpg"  width="150" height="70">
+</body>
+<br><br>
+<body>
+<img src="mail1.PNG"  class="img-responsive" style="width:"145px"  height="126px" alt="image" usemap="#planetmap">
+
+<map name="planetmap">
+  <area shape="rect" coords="0,0,199,168" alt="mail1" href="class2.html">
+</map>
+</body>
+</head>
+<style type="text/css">
+.btn-whatsapp{display:block; max-width:200px; color:#fff; text-align:center; padding:10px; margin:0 auto 0 auto; background:#48C631;}
+</style>
+
+<!--
+Place the following HTML code within the <body></body of your web page where you wish the WhatsApp button to be displayed, that's it! :)
+-->
+
+<a href="whatsapp://send?text=TEXT_OR_URL" title="BE  ORGANIC" class="btn-whatsapp">Visit Us</a>
+<head>
+<!-- Font Awesome Icon Library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.checked {
+    color: orange;
+   align:bottom
+}
+</style>
+<
+<body>
+<object align="right">
+<p id="demo"><i> <br>Be Organic</br> contact us:9041237864<br>Emailid:farmvilla@gmail.com<br><br><br></i>.</p>
+<br><br><br><br><br><br><br></align></object>
+<script>
+function myFunction() {
+document.getElementById("demo").style.padding = "70px"; 
+    document.getElementById("demo").style.fontSize = "25px"; 
+    document.getElementById("demo").style.color = "orange";
+    document.getElementById("demo").style.backgroundColor = "green";        
+}
+</script>
+</body>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<body>
+<img src="fb.jpg" width="25" height="17" align="right">
+</body>
+<body>
+<img src="wa1.png"  width="30" height="20" align="right">
+</body>
+<body>
+<img src="mail.png"  width="30" height="20" align="right">
+</body>
+<body>
+<img src="twitter.png"  width="30" height="20" align="right">
+</body>
+<body>
+<object align="right">
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+</object>
+</body>
+</html>
