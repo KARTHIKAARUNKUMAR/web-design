@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<input type="search" id="mySearch" placeholder="Search for something..">
+</body>
+<ul>
+  <li><a class="active" href="Front_page.html#home">Home</a></li>
+  <li><a class="active" href="border.html">Back</a></li>
+<li><a class="active" href="nuts.html">Nuts & Others</a></li>
+  </ul>
+</body>
+<style>
+div.gallery {
+    margin: 15px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 10px;
+    height:auto;
+    text-align: center;
+}
+
+</style>
+</head>
+<body>
+<div class="gallery">
+  <a target="_blank" href="apple.jpg">
+    <img src="apple.jpg"  style="width:300; height:400" alt="apple" usemap="#applemap">
+<map name="applemap">
+  <area shape="rect" coords="0,0,82,126" alt="redapple" href="redapple.html">
+  <area shape="circle" coords="90,90,90" alt="greenapple" href="greenapple.html">
+  </map>
+    </a>
+  <div class="desc">Rs.50 per kgs of shimla Apple</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bks.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+</div>
+</body>
+<div class="gallery">
+  <a target="_blank" href="capsicums.jpg">
+    <img src="capsicums.jpg"  width="1000" height="1500">
+  </a>
+  <div class="desc">Rs.20 per kgs of all Capsicum varieties</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+</div>
+<div class="gallery">
+  <a target="_blank" href="carrot.jpg">
+    <img src="carrot.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.25 per kgs of Fresh Carrots</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="potato.jpg">
+    <img src="potato.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.30 per kgs of Fresh Potatoes</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="beans.jpg">
+    <img src="beans.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.25 per kgs of  Beans</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="drumstick.jpg">
+    <img src="drumstick.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.20 per kgs of  Drumstick</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="brinjal.jpg">
+    <img src="brinjal.jpg"  width="1500" height="400">
+
+  </a>
+  <div class="desc">Rs.25 per kgs of Fresh Brinjals</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="grapes.jpg">
+    <img src="grapes.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of  Grapes</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="guava.jpg">
+    <img src="guava.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of  Guava</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="musk.jpg">
+    <img src="musk.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.30 per kgs of  Musk</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="watermelon.jpg">
+    <img src="watermelon.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of  Watermelon</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="spices.jpg">
+    <img src="spices.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.50 per kgs of natural made spice powders</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="potato.jpg">
+    <img src="potato.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of Potato</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="curry.jpg">
+    <img src="curry.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.10 </div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="jack.jpg">
+    <img src="jack.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.60 per kgs of JackFruit</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="papaya.jpg">
+    <img src="papaya.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.50 per kgs of  Papaya</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="peach.jpg">
+    <img src="lady.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of Lady'S finger</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="pine.jpg">
+    <img src="pine.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.60 per kgs of  Pine apple</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="bitter.jpg">
+    <img src="bitter.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of Lady'S finger</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="onion.jpg">
+    <img src="onion.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of  Grapes</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<object align="left">
+<div class="gallery">
+  <a target="_blank" href="cc.jpg">
+    <img src="cc.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.10per kgs of  Corriander</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+</object>
+</div>
+<div class="gallery">
+  <a target="_blank" href="orange.jpg">
+    <img src="orange.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.55 per kgs of  Orange</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="manjal.jpg">
+    <img src="manjal.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.50  speacial offer per kgs of spice extracts </div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<div class="gallery">
+  <a target="_blank" href="extracts.jpg">
+    <img src="extracts.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.50 per kgs of spice extracts </div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+<object align="left">
+<div class="gallery">
+  <a target="_blank" href="tomato.jpg">
+    <img src="tomato.jpg"  width="750px" height="300px;">
+  </a>
+  <div class="desc">Rs.30 per kgs of Fresh Tomatoes</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+</object>
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="garlic.jpg">
+    <img src="garlic.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.25 per kgs of Garlics/div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+<div class="gallery">
+  <a target="_blank" href="ban.jpg">
+    <img src="ban.jpg"  width="1500" height="400">
+  </a>
+  <div class="desc">Rs.45 per kgs of Lady'S finger</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+</div>
+
+</div>
+</body>
+</html>
