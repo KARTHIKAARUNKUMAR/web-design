@@ -1,0 +1,162 @@
+<html>
+<head>
+<body>
+<input type="search" id="mySearch" placeholder="Search for something..">
+</body>
+
+<ul>
+  
+<li><a class="active" href="class.html">Back</a></li>
+  
+</ul>
+</body>
+<style>
+div.gallery {
+    margin: 15px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 10px;
+    height:auto;
+    text-align: center;
+}
+
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="nut1.jpg">
+    <img src="nut1.jpg"  style="width:300" height:400">
+  </a>
+  <div class="desc">Rs.50 per kgs of cashew</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bks.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+</div>
+
+
+
+</body>
+
+
+<div class="gallery">
+  <a target="_blank" href="nut2.jpg">
+    <img src="nut2.jpg"  width="1000" height="1500">
+  </a>
+  <div class="desc">Rs.45 per kgs of dry grapes</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+
+
+
+
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="nut3.jpg">
+    <img src="nut3.jpg"  width="1000" height="1500">
+  </a>
+  <div class="desc">Rs.45 per kgs of almond</div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+
+
+
+
+</div>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="nut4.jpg">
+    <img src="nut4.jpg"  width="1000" height="1500">
+  </a>
+  <div class="desc">Rs.45 per kgs of groundn </div>
+<style>
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+
+<body background="bk.jpg">
+<a href="fb.html" ><i>BUY NOW</i></a>
+
+
+
+
+
+</div>
+
+
